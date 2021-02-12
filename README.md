@@ -1,5 +1,7 @@
 # Relax-Inc.-Take-Home-Challenge
 
+Directions: We suggest spending 1­2 hours on this, but you're welcome to spend more or less. Please send us a brief writeup of your findings (the more concise, the better ­­ no more than one page), along with any summary tables, graphs, code, or queries that can help us understand your approach. Please note any factors you considered or investigation you did, even if they did not pan out. Feel free to identify any further research or data you think would be valuable.
+
 ## 1. Data 
 - User table included data on 12,000 users who signed up for the product in the last two years.
 - A usage summary table that has a row for each day that a user logged into the product.
